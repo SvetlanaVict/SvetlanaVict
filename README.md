@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Sveta.
+#### Python developer
+In 2023, a certificate of successful completion of the Python developer course was received.
+I continue to study this programming language and everything related to it.
+I am open for cooperation in interesting projects.
 
-<!--
-**SvetlanaVict/SvetlanaVict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:  Python / HTML / CSS / Git / SQLite3 / Django Framework / Flask
 
-Here are some ideas to get you started:
+- 📫 How to reach me: s.priyavko@outlook.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SvetlanaVict)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/svetavict//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@SvetlanaPriyavko )  
+
+
